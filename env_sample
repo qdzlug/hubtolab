@@ -1,0 +1,8 @@
+# GitHub Configuration
+export GITHUB_TOKEN="TOKEN"
+export GITHUB_USER="NAME"
+
+# GitLab Configuration
+export GITLAB_INSTANCE="gitlab.example.com"
+export ACCESS_TOKEN="TOKEN"
+export NAMESPACE_ID="5"
