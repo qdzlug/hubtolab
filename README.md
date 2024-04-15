@@ -82,18 +82,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- Your team or organization.
-- Any third-party packages or resources you used.
+- The Queen of RBAC
 
 ## Disclaimer
 
 This software is provided "as is", without warranty of any kind. Use at your own risk.
 
-```
 
-### Notes:
-- **Customization**: Customize the above template according to your repository's specifics, such as URL paths and additional instructions.
-- **Further Details**: Expand sections based on specific requirements or additional features of your scripts.
-- **Additional Scripts**: If there are more scripts or dependencies involved, make sure to include those details in the setup or usage sections.
-
-This README template provides a comprehensive guide that can be further detailed as per the actual functionality and requirements of your mirroring setup.
