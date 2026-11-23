@@ -6,3 +6,5 @@ export GITHUB_USER="NAME"
 export GITLAB_INSTANCE="gitlab.example.com"
 export ACCESS_TOKEN="TOKEN"
 export NAMESPACE_ID="5"
+# Optional: private (default), internal, or public
+export GITLAB_VISIBILITY="private"

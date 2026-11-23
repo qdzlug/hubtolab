@@ -48,6 +48,8 @@ Run the `gl_repo_create.py` script to create a new project in GitLab:
 python gl_repo_create.py "NewProjectName"
 ```
 
+Projects are created as `private` by default. Set `GITLAB_VISIBILITY` to `internal` or `public` to override.
+
 ### Setting Up Repository Mirroring
 
 To set up mirroring for specific repositories:
